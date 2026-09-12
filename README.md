@@ -236,3 +236,6 @@ This repository serves as the official landing page for Counter Strike. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Counter Strike today!**
+
+---
+**Last updated:** 2026-09-12 12:38:41 UTC
